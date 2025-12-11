@@ -1,4 +1,4 @@
-# Part 9 --- Starter
+# Part 9 - Starter
 
 This part builds on your Part 8 solution. The key goal is to restructure
 the code by moving functionality from `app.py` and `models.py` into a
